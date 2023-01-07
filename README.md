@@ -9,7 +9,9 @@ I'm MFŞ. Computer Engineer and Instructor - Youtube
 
 ## Graduation
 
-B.S in Computer Engineering |  [Nizam Karasu](https://nkarasu.meb.k12.tr)
+high school |  [Nizam Karasu](https://nkarasu.meb.k12.tr)
+
+middle school | [Süleyman Şah](https://suleymansahiho.meb.k12.tr)
 
 ## I'm currently working on 🔭
 
