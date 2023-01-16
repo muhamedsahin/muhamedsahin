@@ -7,7 +7,7 @@ I'm MFŞ. Computer Engineer and Instructor - Youtube
 
 ![MFŞ's GitHub Stats](https://github-readme-stats.vercel.app/api?username=muhamedsahin&show_icons=true&theme=tokyonight)
 
- ![MFŞ's GitHub Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=muhamedsahin&layout=compact)
+ ![MFŞ's GitHub Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=muhamedsahin&layout=compact&theme=tokyonight)
 
 ## Graduation
 
