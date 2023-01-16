@@ -7,6 +7,8 @@ I'm MFŞ. Computer Engineer and Instructor - Youtube
 
 ![MFŞ's GitHub Stats](https://github-readme-stats.vercel.app/api?username=muhamedsahin&show_icons=true)
 
+![MFŞ's GitHub Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=muhamedsahin&layout=compact)
+
 ## Graduation
 
 high school |  [Nizam Karasu](https://nkarasu.meb.k12.tr)
