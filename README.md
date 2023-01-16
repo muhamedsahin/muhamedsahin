@@ -5,7 +5,7 @@ I'm MFŞ. Computer Engineer and Instructor - Youtube
 
 ![Profile Views](https://komarev.com/ghpvc/?username=muhamedsahin)
 
-![MFŞ's GitHub Stats](https://github-readme-stats.vercel.app/api?username=muhamedsahin&show_icons=true)
+![MFŞ's GitHub Stats](https://github-readme-stats.vercel.app/api?username=muhamedsahin&show_icons=true&theme=Gradient))
 
  ![MFŞ's GitHub Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=muhamedsahin&layout=compact)
 
